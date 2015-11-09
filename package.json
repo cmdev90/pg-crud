@@ -1,0 +1,30 @@
+{
+  "name": "pg-crud",
+  "version": "1.0.0",
+  "description": "A simple CRUD interface library for Postgres on the Node.js platform.",
+  "main": "index.js",
+  "dependencies": {
+    "mongo-sql": "^2.7.1",
+    "pg": "^4.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wryi/pg-crud.git"
+  },
+  "keywords": [
+    "postgres",
+    "sql",
+    "pg",
+    "crud"
+  ],
+  "author": "Cherlton Millette <cherlton.millette@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wryi/pg-crud/issues"
+  },
+  "homepage": "https://github.com/wryi/pg-crud#readme"
+}
