@@ -1,6 +1,6 @@
 {
   "name": "pg-crud",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple CRUD interface library for Postgres on the Node.js platform.",
   "main": "index.js",
   "dependencies": {
